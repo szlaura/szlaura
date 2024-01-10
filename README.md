@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br>Hi, I'm Laura Szekeres 👋<br>🎓 Currently, I’m studying Compute Science at University of Szeged.<br>🌱My favourite activities when I’m not sitting in front of my laptop: 🏊🏻‍♀️🎨🎹<br>⚡ Fun fact: Besides programming languages, I’m passionate about foreign languages, my current passion is Spanish.💃🏽
+<br>Hi, I'm Laura Szekeres 👋<br>🎓 Currently, I’m studying Computer Science at University of Szeged.<br>🌱My favourite activities when I’m not sitting in front of my laptop: 🏊🏻‍♀️🎨🎹<br>⚡ Fun fact: Besides programming languages, I’m passionate about foreign languages, my current passion is Spanish.💃🏽
 
 
 ## 🌐 Socials:
