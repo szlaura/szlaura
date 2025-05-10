@@ -13,15 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-<br>Hi, I'm Laura Szekeres 👋<br>🎓 Currently, I’m studying Computer Science at University of Szeged.<br>🌱My favourite activities when I’m not sitting in front of my laptop: 🏊🏻‍♀️🎨🎹<br>⚡ Fun fact: Besides programming languages, I’m passionate about foreign languages, my current passion is Spanish.💃🏽
+# Hey there!👋
+I'm Laura Szekeres, welcome to my GitHub profile.💫 <br><br>👩🏻‍💻 Code is my favourite puzzle, and I love figuring out how to make the pieces acutally fit.<br>🌱My favourite activities when I’m not sitting in front of my laptop: 🏊🏻‍♀️🎨🎹<br> 🤓 My love for languages goes beyond code - I enjoy learning new ones of all kinds, and right now, I'm adding Spanish to the mix.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloimlauraszekeres) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SZLAURA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SZLAURA&theme=dark&hide_border=false)<br/>
